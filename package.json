@@ -1,0 +1,23 @@
+{
+  "name": "wanchain3.0-manual",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "binstring": "^0.2.1",
+    "bip38": "^2.0.2",
+    "bitcoinjs-lib": "^4.0.1",
+    "btc-address": "^0.4.0",
+    "crypto": "^1.0.1",
+    "moment": "^2.22.2",
+    "secp256k1": "^3.5.2",
+    "web3": "^1.0.0-beta.35",
+    "wif": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
